@@ -1,0 +1,6 @@
+POST https://shorten-url-production.up.railway.app/api/v1
+Content-Type: application/json
+
+{
+  "url": "sjpl.co.id"
+}
